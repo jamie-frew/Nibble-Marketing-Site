@@ -4,7 +4,5 @@
   "theme_color": "#9570ed",
   "background_color": "#5f7ae9",
   "display": "fullscreen",
-  "orientation": "portrait",
-  "scope": "/",
-  "start_url": "/"
+  "orientation": "portrait"
 }
